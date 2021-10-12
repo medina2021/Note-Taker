@@ -2,7 +2,9 @@
 
 ## Description
 
-I modified starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. I can enter a new note title and the notes text then save the note. The note will then appear on the left hand side of the page. My application is deployed to Heroku. 
+I modified starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. I can enter a new note title and the notes text then save the note. The note will then appear on the left hand side of the page. My application is deployed to Heroku.  
+  
+Link to Heroku : https://powerful-ridge-68934.herokuapp.com/
 
 
 ## Mock-Up
