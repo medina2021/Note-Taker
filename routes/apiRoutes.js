@@ -6,7 +6,7 @@ const store = require('../db/store');
 router.get('/notes', (req,res) => {
     store
     .getNotes()
-    .then(notes =>{
+    .then(notes => {
         res.json(notes)
     })
     .catch(err => {
